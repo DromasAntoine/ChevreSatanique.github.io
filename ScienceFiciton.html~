@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset="UTF-8">
+	<title>Film de Science-Ficiton</title>
+	<link rel="stylesheet" type="text/css" href="./style.css"/>
+</head>
+
+<body>
+
+	<header>Site créé par : Chèvre_Satanique, créé le 28/01/2021, dernière mise à jour le 28/01/2021</header>
+	<section>
+	
+	<h1>Film de Science-Ficiton</h1>
+	<p>Voici une liste de film de Science-Fiction succeptible de t'intéressé :</p>
+	</section>
+
+	<section class="Fiche">
+		<h3 class="titre">. Donnie Darko</h3>
+		<ul>
+			<li class="real">Richard Kelly</li>
+			<li class="acteurs">Jake Gyllenhaal, Jena Malone</li>
+			<li class="temps">1h48 (108 minutes)</li>
+			<li class="resume">Donnie est un garçon de 16ans, mais il a encore un ami imaginaire, Frank, qui lui sauva la vie en le prévenant qu'un accident qui allait le tuer allait avoir lieu. Après ça Frank lui révèle que la fin du monde et proche et lui demande de réaliser sa destiné.</li>
+			<li class="point+">Tout.</li>
+			<li class="point-">L'auteur de ce post n'est probablement pas objectif.</li>
+			<li class="Note">5/5 regarde le c'est tout.</li>	
+			<img class="displayed" src="./Donnie.jpg" width="600"  />	
+		</ul>
+	</section>	
+	
+	<section class="Fiche">
+		<h3 class="titre">. Star Wars</h3>
+		<ul>
+			<li class="real">George Lucas</li>
+			<li class="acteurs">Mark Hamill, Hayden Christensen, Ewan McGregor</li>
+			<li class="temps">Xh (X minutes)</li>
+			<li class="resume">Vous connaissez tous Star Wars c'est juste une fiche test pour la création du site.</li>
+			<li class="point+">-</li>
+			<li class="point-">-</li>
+			<li class="Note">5/5</li>		
+			<img class="displayed" src="./img/SW.SVG" width="600" />
+		</ul>
+	</section>	
+
+	<footer>
+	<h2>Liens vers les autres genres de film :</h2>
+		<nav>
+			<ul>
+				<li><a href="./index.html">Page d'accueil du site</a></li>
+				<li><a href="./ScienceFiciton.html">Science-Ficiton</a></li>
+				<li><a href="./AnimeJaponais.html">Anime Japonais</a></li>
+				<li><a href="./Emouvant.html">Emouvant</a></li>
+				<li><a href="./FilmdeGuerre.html">Film de Guerre</a></li>
+				<li><a href="./Catastrophe.html">Catastrophe</a></li>
+				<li><a href="./ThrillerSombre.html">Thriller / Sombre</a></li>
+				<li><a href="./Triste.html">Triste</a></li>
+				<li><a href="./HappyEnd.html">Happy-End</a></li>
+				<li><a href="./FilmdEpoquerealiste.html">Film d'époque / Réaliste</a></li>
+				<li><a href="./Fantaisiste.html">Fantaisiste</a></li>
+			</ul>
+		</nav>
+	</footer>
+</body>
+
+</html>

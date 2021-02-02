@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset="UTF-8">
+	<title>Happy-end</title>
+	<link rel="stylesheet" type="text/css" href="./style.css"/>
+</head>
+
+<body>
+
+	<header>Site créé par : Chèvre_Satanique, créé le 28/01/2021, dernière mise à jour le 28/01/2021</header>
+	<section>
+	<h1>Happy-end</h1>
+	<p>Voici une liste d'Happy-end succeptible de t'intéressé :</p>
+	</section>
+
+	<section class="Fiche">
+		<h3 class="titre"></h3>
+		<ul>
+			<li class="real"></li>
+			<li class="acteurs"></li>
+			<li class="temps"></li>
+			<li class="resume"></li>
+			<li class="point+"></li>
+			<li class="point-"></li>
+			<li class="Note"></li>		
+		</ul>
+	</section>	
+
+	<footer>
+	<h2>Liens vers les autre genres de film :</h2>
+		<nav>
+			<ul>
+				<li><a href="./index.html">Page d'accueil du site</a></li>
+				<li><a href="./ScienceFiciton.html">Science-Ficiton</a></li>
+				<li><a href="./AnimeJaponais.html">Anime Japonais</a></li>
+				<li><a href="./Emouvant.html">Emouvant</a></li>
+				<li><a href="./FilmdeGuerre.html">Film de Guerre</a></li>
+				<li><a href="./Catastrophe.html">Catastrophe</a></li>
+				<li><a href="./ThrillerSombre.html">Thriller / Sombre</a></li>
+				<li><a href="./Triste.html">Triste</a></li>
+				<li><a href="./HappyEnd.html">Happy-End</a></li>
+				<li><a href="./FilmdEpoquerealiste.html">Film d'époque / Réaliste</a></li>
+				<li><a href="./Fantaisiste.html">Fantaisiste</a></li>
+			</ul>
+		</nav>
+	</footer>
+</body>
+
+</html>

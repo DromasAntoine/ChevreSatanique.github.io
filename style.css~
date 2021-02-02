@@ -1,0 +1,49 @@
+p {
+	font-size: 17pt;
+}
+header {
+	text-align: center;
+	background-color:#375D81;
+}
+body {
+	background-color:#5EB6DD;
+}
+h1 {
+	background-color: black;
+	margin-bottom: 12px;
+	color:white;
+	margin-top:30px;
+	text-align: center;
+	border: solid;
+	font-size: 32pt;
+}
+h3 {
+	background-color: #183152;
+	font-size: 24pt;
+	color: white;
+	margin-left: 15px;
+}
+h2 {
+	font-size: 18pt;
+}
+.Fiche {
+    border:solid;
+}
+img {
+	border : solid;
+	border-bottom-width: thick;
+	border-left-width: thick;
+	border-right-width: thick;
+	border-top-width: thick;
+	margin-top: 25px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+ul {
+	margin-left: 25px;
+}
+li {
+	font-size: 16pt;
+	transition: oui;
+}

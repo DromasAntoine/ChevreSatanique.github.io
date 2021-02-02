@@ -36,6 +36,7 @@ img {
 	border-left-width: thick;
 	border-right-width: thick;
 	border-top-width: thick;
+	border-bottom-width: thick;
 	display: block;
 	margin-bottom: 25px;
 	margin-left: auto;

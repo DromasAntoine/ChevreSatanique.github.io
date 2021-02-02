@@ -35,7 +35,7 @@ img {
 	border-left-width: thick;
 	border-right-width: thick;
 	border-top-width: thick;
-	margin-top: 25px;
+	margin-bottom: 25px;
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
